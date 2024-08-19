@@ -1,0 +1,49 @@
+*----------------------------------------------------------------------------------------
+*       Voltus IC Power Integrity Solution 22.11-s001_1 (64bit) 09/16/2022 15:45 (Linux 3.10.0-693.el7.x86_64)
+*       
+*
+*       Date & Time:    2023-Nov-29 01:50:49 (2023-Nov-28 22:50:49 GMT)
+*
+*----------------------------------------------------------------------------------------
+*
+#Instance Name  Power (W)       Power Pin
+DIODE_ANTENNA_6 6.30701e-15     VDD
+DIODE_ANTENNA_5 6.27977e-15     VDD
+DIODE_ANTENNA_4 6.27977e-15     VDD
+DIODE_ANTENNA_3 6.27977e-15     VDD
+DIODE_ANTENNA_2 6.27977e-15     VDD
+DIODE_ANTENNA_1 6.30701e-15     VDD
+DIODE_ANTENNA_0 8.44431e-14     VBP
+DIODE_ANTENNA_0 3.06707e-13     VDD
+PlaceFE_ESOD_2023-11-18C15_FE_OFN102321_n_14774 2.14842e-11     VBP
+PlaceFE_ESOD_2023-11-18C15_FE_OFN102321_n_14774 8.21635e-07     VDD
+PlaceFE_ESOD_2023-11-18C11_FE_OFN865428_n       2.14842e-11     VBP
+PlaceFE_ESOD_2023-11-18C11_FE_OFN865428_n       5.38776e-07     VDD
+PlaceFE_ESOD_2023-11-18C10_FE_OFN1167401_n      1.78926e-11     VBP
+PlaceFE_ESOD_2023-11-18C10_FE_OFN1167401_n      1.18557e-07     VDD
+PlaceFE_ESOH_2023-11-15C35_FE_ESOH_2023_10_31C821_apb_sb_ext0_if_rsynced_PADDR_15_NET   8.51872e-12     VBP
+PlaceFE_ESOH_2023-11-15C35_FE_ESOH_2023_10_31C821_apb_sb_ext0_if_rsynced_PADDR_15_NET   1.57066e-07     VDD
+PlaceFE_ESOD_2023-11-15C24_FE_OFN879822_n       1.95214e-11     VBP
+PlaceFE_ESOD_2023-11-15C24_FE_OFN879822_n       5.56027e-07     VDD
+PlaceFE_ESOD_2023-11-15C15_FE_OFN721390_n       1.69514e-11     VBP
+PlaceFE_ESOD_2023-11-15C15_FE_OFN721390_n       1.18648e-07     VDD
+PlaceFE_ESOD_2023-11-15C1_o_dft_pmbist_pmda_cpu_done_12 2.35513e-11     VBP
+PlaceFE_ESOD_2023-11-15C1_o_dft_pmbist_pmda_cpu_done_12 1.18531e-06     VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28680	6.69857e-08	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28681	4.8628e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28681	1.75249e-08	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28682	1.50288e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28682	2.82699e-08	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28683	4.46897e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28683	1.37827e-07	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28684	4.46083e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28684	1.42532e-07	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28685	8.92894e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28685	2.27465e-07	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28686	4.55036e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28686	1.887e-07	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28687	2.41895e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28687	1.09985e-08	VDD
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28688	4.50452e-11	VBP
+cpu/gen_scr9_scr9_l3_cluster_top_wrapper/i_scr9_l3_cluster_top/i_scr9_l3_cluster_top/i_timer_wrapper/i_mtimer_top/i_mtimer_core/g28688	1.32304e-07	VDD
+
